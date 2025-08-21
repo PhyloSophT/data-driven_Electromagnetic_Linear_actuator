@@ -1,3 +1,18 @@
+# Data-driven Electromagnetic Linear actuator
+Compatible with:  
+
+• [MATLAB](https://www.mathworks.com/products/matlab.html)  
+• [Simulink](https://de.mathworks.com/products/simulink.html)  
+• [Any commercial Linear Actuator](https://en.wikipedia.org/wiki/Linear_actuator)    
+
+# Key Features
+• nonlinear linear actuator simulink model  
+• determine position, velocity and acceleration curve  
+• Friction line identification  
+• Reconstruction of linear actuator  
+
+# Project Presentation
+
 ![Linearactuator](https://github.com/user-attachments/assets/bd0cf5d8-394f-4f1c-a87b-98298b0b1d43)
 
 <img width="960" height="540" alt="Linearactuator" src="https://github.com/user-attachments/assets/17ccfaf5-fa9b-433d-b248-a19f9d358660" />
@@ -15,3 +30,11 @@
 <img width="960" height="540" alt="Linearactuator (6)" src="https://github.com/user-attachments/assets/ddece6a5-2ff0-44b8-a0f3-071d2fa21a17" />
 
 <img width="960" height="540" alt="Linearactuator (7)" src="https://github.com/user-attachments/assets/f24a838a-9bcd-414d-81bb-d5c70ec5aa82" />
+
+# Optimizations
+
+<img width="960" height="540" alt="Linearactuator (8)" src="https://github.com/user-attachments/assets/5fe46c97-df04-4dee-90a0-9d5cfc7f59ac" />
+
+# Software Stack
+• MATLAB 2025a  
+• Simulink
